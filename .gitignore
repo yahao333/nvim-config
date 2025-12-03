@@ -6,3 +6,10 @@ debug
 foo.*
 *.log
 data
+
+# LazyVim / Neovim cache
+.cache/
+swap/
+undo/
+session/
+shada/
